@@ -52,7 +52,7 @@ setup(
         "Topic :: Scientific/Engineering :: Artificial Intelligence",
     ],
     keywords="openai whisper speech ctranslate2 inference quantization transformer",
-    python_requires=">=3.8",
+    python_requires=">=3.6",
     install_requires=install_requires,
     extras_require={
         "conversion": conversion_requires,
